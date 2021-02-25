@@ -54,7 +54,7 @@ Due to the batch-process nature of this program, files that have to be supplied 
 5. Run the script with 
 `python3 flanking_updated_v2.py`
 6. Set the appropriate flank length for your sequences.
-7. *Don't* grab a coffee because this is *not* going to take a while. It's rather quick.
+
 #### Part Two
 _Now that we have a gazillion ".fasta" files, we will process them for fold and highlight._
 1. Move all the ".fasta" precursors to a new folder to avoid the clutter.

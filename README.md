@@ -16,7 +16,7 @@ Furthermore, it will fold the precursor sequences into secondary RNA structures 
 
 This script can be a workaround for batch-processing highlighting mfold structures as the standalone mfold does not have a highlight feature similar to it's web-server.
 
-Due to the batch-process nature of this program, it offers little to no interaction and the files that have to be supplied need to be in a very particular format that is required by the program. However, if you need to tweak the program, you most certainly can due to it's relatively small length and not-so-complex nature.
+Due to the batch-process nature of this program, files that have to be supplied need to be in a particular format that is required by the program. However, if you need to tweak the program to suit your own need, you most certainly can due to it's relatively small length and not-so-complex nature.
 
 > *Note : This workflow has been designed for short microRNA sequences. If you wish to use this script to fetch other nucleotide sequences just for the flanking regions, you most certainly can.* 
 

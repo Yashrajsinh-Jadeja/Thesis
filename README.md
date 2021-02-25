@@ -10,7 +10,7 @@
 3. [Instructions](#instructions)
 ---
 #### What is this about and will it suit my workflow?
- This is a script that sort of automates the process of fetching BLAST hits along with their flanking region for creating precursor microRNA sequences. 
+ This is a script that automates the process of fetching BLAST hits along with their flanking region for creating precursor microRNA sequences. 
 
 Furthermore, it will fold the precursor sequences into secondary RNA structures using mfold and allow the users to highlight the bases to their own liking using the VARNA applet. (intended for highlighting miRNA and miRNA* in the 2<sup>o</sup> structure.
 

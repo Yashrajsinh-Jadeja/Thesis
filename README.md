@@ -1,7 +1,6 @@
 
 # miRacle
 ### A repository for some scripts and tools that I wrote during my M.S thesis/dissertation work in the genomics domain.
-#### **EDIT : CNN-based image classifier for further automation coming soon with substantially large pre-trained Keras model (trained on 5 plant datasets) along with the source code.  
 
 ---
 ### Table of Contents
@@ -73,8 +72,4 @@ _Now that we have a gazillion ".fasta" files, we will process them for fold and 
 
 > **(What comes out)** _Multiple_ ".fasta" files containing precursors (as mfold does NOT allow multi-fasta files) + file containing motif start coordinates + file containing motif end coordinates. (relevant for further folding and highlighting)
 
-#### TODO
-**Learn to write better documentation, update the terrible documentation, tweak the code for better performance, fix terrible variable names.**
-
-
-> Written with [StackEdit](https://stackedit.io/).
+#### **EDIT : CNN-based image classifier for further automation coming soon with substantially large pre-trained Keras model (trained on 5 plant datasets) along with the source code.
